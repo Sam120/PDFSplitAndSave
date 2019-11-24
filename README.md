@@ -7,3 +7,5 @@ Split pdf into multiple pdf containing variable pages based on different key val
    convert into pdf files and save them in harddisk.
 4. The server side coding was avoided because of limitations. But the portions are seperated so that nyone can save the bytecode into database
    with minimal tweak of codes.
+5. The sample file is placed in the src/main/resources folder.
+6. The output files gets generated in src/main/output folder.
